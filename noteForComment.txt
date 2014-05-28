@@ -2,3 +2,31 @@ comments of project-TKPPL
 --------------------------
 
 @rudy :untuk grunt server bespoke? ada yang bisa buka tidak?
+
+
+@rudy : sudah saya submit yaa..
+{
+Nama Kelompok : CoolsTeam
+
+Alamat Github : https://github.com/CoolsTeam/ProjekTKPPL.git
+
+Alamat Trello : https://trello.com/b/unmLpQuT/tkppl-bladeless-fan
+
+Judul Topik : Bladeless Fan
+
+Anggota 1 
+Nama : Rudy Chandra
+NIM : 121110774
+
+Anggota 2
+Nama : Ricky
+NIM : 121110677
+
+Anggota 3
+Nama : Luis Tono
+NIM : 121110073
+
+Anggota 4
+Nama : Jimmy Susilo
+NIM : 121111451
+}
