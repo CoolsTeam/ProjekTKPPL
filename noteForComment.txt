@@ -2,6 +2,7 @@ comments of project-TKPPL
 --------------------------
 
 @rudy :untuk grunt server bespoke? ada yang bisa buka tidak?
+<<<<<<< HEAD
 
 
 @rudy : sudah saya submit yaa..
@@ -30,3 +31,6 @@ Anggota 4
 Nama : Jimmy Susilo
 NIM : 121111451
 }
+=======
+@luis :punya saya bisa buka tapi punya kalian koq gk bisa?
+>>>>>>> 87c33eb610f78e070f8adf8ab9f399b5986fd449
