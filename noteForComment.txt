@@ -1,6 +1,6 @@
 comments of project-TKPPL
 --------------------------
-
+@luis : untuk grunt server, sebelumnya harus ketik "npm install && bower install" atau dengan mengcopy folder node_modules dan folder public kedalam repositori lokal terlebih dahulu.
 @rudy :untuk grunt server bespoke? ada yang bisa buka tidak?
 <<<<<<< HEAD
 
