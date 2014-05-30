@@ -37,3 +37,5 @@ NIM : 121111451
 
 10:31 PM 5/29/2014
 @rudy : untuk bespoke? kenapa setelah saya edit selesai, dan mau di commit ke source tree? itu tidak terdeteksi perubahan? dan sewaktu w buka kembali kenapa balik lagi seperti awal? alhasil, jadi gak bisa ubah slide di bespoke..
+
+@Jim : Tes commit
