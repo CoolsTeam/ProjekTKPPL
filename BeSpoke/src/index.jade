@@ -52,6 +52,10 @@ html
 
       section
         h1 Latar Belakang
+        p Penggunaan kipas angin elektronik yang sekarang ini, membuat masyarakat semakin kurang nyaman, yang dipengaruhi beberapa faktor yaitu :
+        ul
+            each val, index in {1:'Penggunaan Energi Listrik yang cukup besar',2:'Pengaruh arus globalisasi penggunaan AC',3:'Harus dibersihkan dalam jangka waktur tertentu'}
+                li= index + '. ' + val
         
       section
         h1 Cara Kerja 
