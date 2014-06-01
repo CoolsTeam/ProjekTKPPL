@@ -40,3 +40,8 @@ NIM : 121111451
 
 @Jim : Tes commit..
 @Jim : done..
+
+@Ricky :
+To All!!!
+Setiap hari update kegiatan kalian di logbook dan push ke repository!!!
+Untuk Burndown chart, Scrum Master yang mengedit dan push ke repository!!!
