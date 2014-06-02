@@ -45,3 +45,5 @@ NIM : 121111451
 To All!!!
 Setiap hari update kegiatan kalian di logbook dan push ke repository!!!
 Untuk Burndown chart, Scrum Master yang mengedit dan push ke repository!!!
+
+@rudy : guys, mohon dibantu ya untuk efek slide bespoke. boleh dilihat pada trello linknya. thankyou
