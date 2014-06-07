@@ -50,3 +50,9 @@ Untuk Burndown chart, Scrum Master yang mengedit dan push ke repository!!!
 
 @Ricky :
 Sudah saya terapkan warna latar pada setiap slide. Kalau ada warna yang ingin diubah, silahkan.
+
+@Ricky :
+Note untuk penjelasan Wheeler :
+Schuyler Skaats Wheeler lahir di Massachusetts pada 17 Mei 1860 dan wafat pada 20 April 1923. Ia adalah seorang  insinyur Amerika yang menemukan dua baling-baling kipas angin listrik pada tahun 1882 pada usia 22. Dia juga mematenkan jenis baterai listrik.  Ia dianugerahi John Scott Medal of The Franklin Institute pada tahun 1904 dan menjadi presiden dari American Institute of Electrical Engineers 1905-1906.
+
+Kipas angin listrik dua baling-baling temuan Schuyler Wheeler diproduksi oleh the Crocker and Curtis Electric Motor Company. Ia menikah dengan Amy Sutton pada 11 Oktober 1898.  Dia meninggal karena angina pectoris di rumahnya di Manhattan.
