@@ -10,7 +10,7 @@ html
     link(rel='stylesheet', type='text/css', href='bower_components/prism/themes/prism-tomorrow.css')
     link(rel='stylesheet', type='text/css', href='styles/main.css')
     link(rel='shortcut icon', href='icon/apple.ico')
-    bespoke-slide(transition='all .8s ease' transform-origin='50% 50% -400px')
+    
     bespoke-inactive(opacity='0')
     bespoke-before(transform='rotateY(-90deg)')
     bespoke-after(transform='rotateY(90deg)')
@@ -22,7 +22,7 @@ html
       section(style='background-color:#DEB887;border-radius:40px;')
         h1(style="font-size:50px") Teknologi Kolaborasi Pengembangan Perangkat Lunak
 
-      section(style='background-color:#DEB887;border-radius:40px;')
+      section(style='background-color:#DEB887;border-radius:40px;' bespoke-slide='transition:all .8s ease; transform-origin:50% 50% -400px')
         h1(style="font-size:40px") Disusun oleh : Cools Team
         h3(style="font-size:32px") Nama Anggota :
         h4 Rudy Chandra (121110774)
@@ -31,7 +31,7 @@ html
         h4 Jimmy Susilo (121111451)
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h1(style='text-shadow: 5px 5px 5px #A0522D') History of Fan
+        h1(style='text-shadow: 3px 3px 3px #A0522D') History of Fan
         h1
         img(src='gambar/Kipas1.jpg' width="200px" height="175px")
         h1
@@ -40,7 +40,7 @@ html
         img(src='gambar/Kipas3.jpg' width="150px" height="175px")
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Schuyler Skaats Wheeler(1860-1923)
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Schuyler Skaats Wheeler(1860-1923)
         h1
         img(src='gambar/Wheeler.jpg' width="200px" height="250px")
         li Lahir 17 Mei 1860
@@ -49,13 +49,13 @@ html
         li American Institute of Electrical Engineers(1905-1906)
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Kipas Wheeler
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Kipas Wheeler
         img(src='gambar/KipasWheeler.jpg')
         li Ditemukan tahun 1882
         li Diproduksi oleh The Crocker and Curtis Electric Motor Company
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Perkembangan Kipas Angin
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Perkembangan Kipas Angin
         li Dikembangkan Philip H. Diehl
         li Tahun 1887 dipatenkan kipas yang menempel di langit-langit rumah
         li Tahun 1904 kipas angin dengan sendi split-ball
@@ -71,14 +71,14 @@ html
         img(src='gambar/blade.jpg')
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Latar Belakang
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Latar Belakang
         img(src='gambar/Dyson.jpg' width="250px" height="200px" style='border-radius:40px;')
         li Kipas angin tanpa baling-baling ini ditemukan oleh James Dyson di bulan OKtober 2009.
         li Kipas angin ini mendorong 119 galon udara perdetik. 
         li Tidak seperti kipas angin biasa yang mengandalkan baling-baling yang berputar untuk “menangkap” udara dan menghembuskannya ke depan, teknologi kipas angin tanpa baling-baling ini menggunakan prinsip aliran udara model seperti sayap pesawat terbang.
         
       section(style='background-color:#DEB887;border-radius:40px;')
-        h1(style='text-shadow: 5px 5px 5px #A0522D') Cara Kerja
+        h1(style='text-shadow: 3px 3px 3px #A0522D') Cara Kerja
         li Mesin silinder
         li Cincin blade
         li Prinsip kerja mesin jet
@@ -97,16 +97,16 @@ html
         li Dengan menggunakan teknologi “blade” ini memeiliki beberapa keuntungan dibandingkan dengan kipas angin konvensional; Tidak perlu pengaman, bagian-bagiannya mudah dibersihkan, cukup digerakkan dengan motor dynamo yang kecil, dan hembusan angin yang dihasilkan, putarannya bisa dikontrol atau di rubah-rubah menggunakan switch yang ada.(livesciense)
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Air Multiplier
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Air Multiplier
         img(src='gambar/CaraKerja2.jpg')
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Hasil Angin
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Hasil Angin
         h1
         img(src='gambar/HasilUdara.jpg')
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h1(style='text-shadow: 5px 5px 5px #A0522D') Keuntungan Bladeless Fan
+        h1(style='text-shadow: 3px 3px 3px #A0522D') Keuntungan Bladeless Fan
 
       section(style='background-color:#DEB887;border-radius:40px;')
         h2 Keuntungan :
@@ -116,13 +116,15 @@ html
         li Di dalam sebuah wawancara dengan Dyson, ia mengatakan: “Saya selalu kecewa dengan kipas angin biasa. Baling-baling yang berputar memotong aliran udara, menyebabkan suara mengganggu. Selain itu susah dibersihkan dan anak-anak selalu ingin memasukkan jari-jari mereka melalui lubang-lubang kawat. Jadi kami mengembangkan sebuah jenis kipas angin baru yang tidak menggunakan baling-baling."
 
       section(style='background-color:#DEB887;border-radius:40px;')
-        h1(style='text-shadow: 5px 5px 5px #A0522D') Demo
+        h1(style='text-shadow: 3px 3px 3px #A0522D') Demo
         video(width="600", height="480", controls="controls")
-        source(src="https://rudychai@ymail.com@github.com/video/BladelessFan.flv", type="video/flv")
+        source(src="/video/BladelessFan.flv", type="video/flv")
+        object(data="/video/BladelessFan.flv", width="600", height="480")
+        embed(width="600", height="480", src="/video/BladelessFan.flv")
 
       section(style='background-color:#DEB887;border-radius:40px;')(data-bespoke-hash='named-route')
-        h1(style='text-shadow: 5px 5px 5px #A0522D') Ending
-        h2(style='text-shadow: 5px 5px 5px #A0522D') Thanks For Watching :)
+        h1(style='text-shadow: 3px 3px 3px #A0522D') Ending
+        h2(style='text-shadow: 3px 3px 3px #A0522D') Thanks For Watching :)
 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
